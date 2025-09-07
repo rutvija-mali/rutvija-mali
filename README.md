@@ -1,4 +1,4 @@
-#👋 Hi, I'm Rutvija!
+#👋 Hi, I'm Rutvija!<br/>
 👩🏻‍💻 Full Stack Developer exploring MERN & Java ecosystems<br>🎨 Love building apps<br>🌱 Currently deepening backend + database skills<br>🚀 Always curious about new tools, frameworks & clean code
 
 
